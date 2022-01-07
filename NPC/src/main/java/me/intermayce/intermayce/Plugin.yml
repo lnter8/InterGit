@@ -1,0 +1,7 @@
+main: me.intermayce.intermayce.Intermayce
+name: CreateNPC
+version: 0.1
+author: Inter8
+
+commands:
+  createnpc:

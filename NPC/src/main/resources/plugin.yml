@@ -1,0 +1,4 @@
+name: Intermayce
+version: '${project.version}'
+main: me.intermayce.intermayce.Intermayce
+api-version: 1.18
